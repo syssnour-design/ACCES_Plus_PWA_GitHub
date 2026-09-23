@@ -1,0 +1,17 @@
+{
+  "name": "ACCÈS+ — Tableau de bord du comité de pilotage",
+  "short_name": "ACCÈS+",
+  "description": "Tableau de bord de suivi physique et financier de la composante C2 du programme ACCÈS+ (AGEFAU).",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F4EEE1",
+  "theme_color": "#1B2A4A",
+  "lang": "fr",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
